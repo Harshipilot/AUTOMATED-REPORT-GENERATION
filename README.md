@@ -24,3 +24,4 @@ From a technical perspective, the application will be built using Python 3.x and
 
 *OUTPUT*
 
+![Image](https://github.com/user-attachments/assets/3bd1111a-c2ec-4b87-9d66-b2436a3d32d8)
